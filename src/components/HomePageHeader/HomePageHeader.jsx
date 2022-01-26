@@ -3,6 +3,8 @@ import Reveal from 'react-awesome-reveal'
 import { keyframes } from '@emotion/react'
 import { mobile } from '../../responsive'
 
+import Audio from '../../audio/Dota 2 - Main Menu Flute Theme.mp3'
+
 const HomepageHeader = () => {
   return (
     <Container>
@@ -14,6 +16,12 @@ const HomepageHeader = () => {
             autoPlay
             loop
           />
+          <audio
+            src={Audio}
+            type="audio"
+            autoPlay={true}
+            loop
+          ></audio>
         </VideoContainer>
         <ContentContainer>
           <Reveal keyframes={fadeRight} duration={1500} triggerOnce>
