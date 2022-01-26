@@ -118,7 +118,7 @@ export const newsBlogs = [
     id: 4,
     date: '21 de janeiro de 2022',
     title: 'Finais Regionais da Tour de Inverno do DPC 2021-2022',
-    desc: 'Há pouco mais de uma semana, anunciámos o cancelamento do primeiro Major da temporada de 2021-2022 do DPC. Quando o fizemos, não apresentámos uma solução alternativa para a...',
+    desc: 'Há pouco mais de uma semana, anunciamos o cancelamento do primeiro Major da temporada de 2021-2022 do DPC. Quando o fizemos, não apresentámos uma solução alternativa para a...',
     img: 'https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/3703047/3ca505b93b80b42e87527d5bdaf446845ff8a0ea.png',
   },
   {
