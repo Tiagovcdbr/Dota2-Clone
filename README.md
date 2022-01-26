@@ -19,8 +19,6 @@ a tela que deve aparecer é a do simbolo do React mostrando que seu projeto est�
 Quando abrir seu projeto verá uma tela parecida como mostra abaixo.
 ````
 
-![react](https://user-images.githubusercontent.com/78483210/144079263-bdef59b8-5321-420c-b140-411192ddaa17.png)
-
 ````
 Note no package.json está mostrando todas as depedências que seu projeto tem, no caso da imagem acima já é o projeto feito e suas depedências, o que irei mostrar agora é como instalar e onde encontrar, caso você já saiba onde procure esses pacotes só pelo nome algumas pessoas já sabem onde é a fonte e por isso não precisa seguir esses passos a risca.
 ````
