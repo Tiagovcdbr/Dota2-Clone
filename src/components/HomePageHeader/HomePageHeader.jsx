@@ -21,6 +21,7 @@ const HomepageHeader = () => {
             type="audio"
             autoPlay={true}
             loop
+            
           ></audio>
         </VideoContainer>
         <ContentContainer>
