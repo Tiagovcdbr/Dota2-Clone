@@ -41,6 +41,9 @@ Quando abrir seu projeto verá uma tela parecida como mostra abaixo.
   
   ````
   
+  Link do Deploy:
+  https://dota2-clone-site.netlify.app
+  
   ### Abaixo algumas imagens do projeto
   
 ![img1](https://user-images.githubusercontent.com/78483210/151105304-2e5ee7e7-e104-4453-85b1-cd22ca4f8e5f.png)
